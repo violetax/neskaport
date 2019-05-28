@@ -2,7 +2,7 @@
 # Parameters used by HUGO to configure the site's global settings.
 preserveTaxonomyNames = "true"
 
-baseURL = "http://example.org/"
+baseURL = "https://nifty-hugle-5e6da0.netlify.com"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "hugo-myportfolio-theme"
