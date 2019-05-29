@@ -1,7 +1,7 @@
 ---
 title: "Violeta González"
 sections_title: "Categories"
-image: "calentamiento.jpg"
+image: "hco_lopabox_trap.jpg"
 #sections_order: "weight"
 #sections_order_reverse: false
 posts_title: "Projects"
